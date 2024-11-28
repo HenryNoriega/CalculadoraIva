@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="enter_total">Enter the total bill amount</string>
+    <string name="select_tip_percentage">Select the tip percentage</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount_placeholder">Tip: $0.00</string>
+    <string name="total_with_tip_placeholder">Total with tip: $0.00</string>
+    <string name="total_without_tip_placeholder">Total without tip: $0.00</string>
+    <string name="header_image">Header image</string>
+    <string-array name="tip_percentages">
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+    </string-array>
+</resources>
+

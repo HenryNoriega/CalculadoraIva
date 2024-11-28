@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="enter_total">Ingresa el total de la cuenta</string>
+    <string name="select_tip_percentage">Selecciona el porcentaje de propina</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount_placeholder">Propina: $0.00</string>
+    <string name="total_with_tip_placeholder">Total con propina: $0.00</string>
+    <string name="total_without_tip_placeholder">Total sin propina: $0.00</string>
+    <string name="header_image">Imagen de encabezado</string>
+    <string-array name="tip_percentages">
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+    </string-array>
+</resources>
